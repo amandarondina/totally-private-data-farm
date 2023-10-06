@@ -16,3 +16,5 @@ array should look like this when you're done:
   birthday: "Fri Aug 20 1971"
 }
 ```
+
+![data-farm](https://github.com/amandarondina/totally-private-data-farm/assets/132560768/611cfdb6-d5d5-4cbf-9808-47d39d0b39a2)
